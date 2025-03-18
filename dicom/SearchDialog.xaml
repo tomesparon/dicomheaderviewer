@@ -1,0 +1,9 @@
+﻿<Window x:Class="dicom.SearchDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Search" Height="80" Width="300">
+    <Grid>
+        <TextBox x:Name="SearchTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="10"/>
+        <Button Content="Search" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="75" Height="25" Margin="0,0,10,10" Click="SearchButton_Click"/>
+    </Grid>
+</Window>

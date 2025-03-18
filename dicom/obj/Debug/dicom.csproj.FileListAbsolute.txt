@@ -1,0 +1,13 @@
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\bin\Debug\dicom.exe.config
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\bin\Debug\dicom.exe
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\bin\Debug\dicom.pdb
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\dicom.csprojResolveAssemblyReference.cache
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\Window1.baml
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\SearchDialog.baml
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\Window1.g.cs
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\SearchDialog.g.cs
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\App.g.cs
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\dicom_MarkupCompile.cache
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\dicom.g.resources
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\dicom.exe
+C:\Users\Tom Esparon\Documents\SharpDevelop Projects\dicom\dicom\obj\Debug\dicom.pdb
