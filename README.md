@@ -8,3 +8,7 @@
 
 MIT License.
 Tom Esparon
+
+
+Includes dependencies from DCMTK project 
+dcmdump.exe#
